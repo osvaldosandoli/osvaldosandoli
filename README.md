@@ -4,8 +4,6 @@
 ##### Sobre Mim
 Estudante de Sistemas de Informação, com conheciemntos em Java, C#, Html, CSS, JavaScript, SQL
 
-###### Detalhes
-![osvaldosandoli's Stats](https://github-readme-stats.vercel.app/api?username=osvaldosandoli&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ###### Linguagens Utilizadas
 ![osvaldosandoli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosandoli&theme=dark&show_icons=true&hide_border=true&layout=compact)
