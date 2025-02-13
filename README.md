@@ -2,7 +2,7 @@
 
 
 ##### Sobre Mim
-Estudante de Sistemas de Informação, com conheciemntos em Java, C#, Html, CSS, JavaScript, SQL
+Estudante de Sistemas de Informação, com conheciemntos em Java, C#, HTML, CSS, JavaScript, SQL e Python.
 
 
 ###### Linguagens Utilizadas
