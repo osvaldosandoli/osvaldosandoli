@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação, com conheciemntos em Java, C#, HTML, CSS,
 
 ###### Linguagens Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosandoli&layout=compact&langs_count=10&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosandoli&layout=compact&langs&theme=dark_count=10&cache_seconds=3600)
 
 
 
