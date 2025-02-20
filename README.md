@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação, com conheciemntos em Java, C#, HTML, CSS,
 
 ###### Linguagens Utilizadas
 
-![osvaldosandoli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosandoli&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&cache_seconds=3600)
+![osvaldosandoli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldosandoli&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=html,css&langs_count=10&cache_seconds=3600)
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/osvaldosandoli/)
