@@ -27,7 +27,7 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle SQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" title="SQL Server" width="40" height="40"/>
 </div>
 
 #### 🧩 Frameworks e Ferramentas
@@ -41,7 +41,6 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
   
   <!-- DevOps & Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Apache_http_server_logo_%282019-present%29.svg/512px-Apache_http_server_logo_%282019-present%29.svg.png" title="Apache" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/512px-Openlogo-debianV2.svg.png" title="Debian" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png" title="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" width="40" height="40"/>
