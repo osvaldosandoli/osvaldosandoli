@@ -30,6 +30,21 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" title="SQL Server" width="40" height="40"/>
 </div>
 
+💾 Bancos de Dados
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- Relacionais -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle SQL" width="40" height="40"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="SQL Server"/>
+<!-- Não Relacionais -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
+</div>
+
+Se quiser, posso ajudar a dividir visualmente em subtítulos como 🔷 Relacionais e 🔸 Não Relacionais dentro da mesma seção. Ou montar o README completo com todos os blocos atualizados — tá fácil, só pedir! 😄📘
+
+  
 #### 🧩 Frameworks e Ferramentas
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -47,14 +62,6 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
 
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle SQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB (NoSQL)" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase (NoSQL)" width="40" height="40"/>
-  
   <!-- Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>
 </div>
