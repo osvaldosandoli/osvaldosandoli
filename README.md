@@ -24,7 +24,8 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height
+="40"/>
 </div>
 
 💾 Bancos de Dados
@@ -38,9 +39,6 @@ Sempre em busca de novos desafios para aprimorar meu conhecimento e contribuir c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
 </div>
-
-Se quiser, posso ajudar a dividir visualmente em subtítulos como 🔷 Relacionais e 🔸 Não Relacionais dentro da mesma seção. Ou montar o README completo com todos os blocos atualizados — tá fácil, só pedir! 😄📘
-
   
 #### 🧩 Frameworks e Ferramentas
 
